@@ -2,6 +2,25 @@
 
 Follow the instructions provided in the notebook.
 
+# Running
+
+## Install virtualenv
+
+```console
+
+pip install virtualenv
+```
+
+First create a virtual environment by running the following:
+
+```console
+python virtualenv venv
+```
+then run
+
+```console
+  .\venv\Scripts\activate
+```
 
 
 # Installing dependencies
